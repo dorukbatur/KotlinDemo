@@ -22,5 +22,7 @@ class MainActivity : ComponentActivity() {
 
     //denemetest bitrise
     fun Test(){
+
+        //deneme
     }
 }
