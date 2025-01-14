@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.kotlindemo"
+    namespace = "com.dorukbatur.kotlindemo"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.kotlindemo"
+        applicationId = "com.dorukbatur.kotlindemo"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -37,6 +37,7 @@ android {
     buildFeatures {
         compose = true
     }
+    buildToolsVersion = "35.0.0"
 }
 
 dependencies {
