@@ -12,5 +12,6 @@ class MainActivity : ComponentActivity() {
 
     fun test(){
         //asd
+
     }
 }
