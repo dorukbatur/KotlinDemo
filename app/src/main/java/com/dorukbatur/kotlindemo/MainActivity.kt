@@ -14,5 +14,7 @@ class MainActivity : ComponentActivity() {
     fun Test(){
 
         //deneme
+
+
     }
 }
