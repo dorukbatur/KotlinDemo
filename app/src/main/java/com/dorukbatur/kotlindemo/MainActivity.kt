@@ -10,11 +10,4 @@ class MainActivity : ComponentActivity() {
         setContentView(R.layout.activity_main)
     }
 
-    //denemetest bitrise
-    fun Test(){
-
-        //deneme
-
-
-    }
 }
