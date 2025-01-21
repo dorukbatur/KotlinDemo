@@ -10,4 +10,9 @@ class MainActivity : ComponentActivity() {
         setContentView(R.layout.activity_main)
     }
 
+    fun test(){
+        var a = 5;
+        var b = 4;
+        var c = b+a;
+    }
 }
