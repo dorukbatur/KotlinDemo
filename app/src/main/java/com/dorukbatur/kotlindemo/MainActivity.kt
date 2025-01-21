@@ -10,7 +10,4 @@ class MainActivity : ComponentActivity() {
         setContentView(R.layout.activity_main)
     }
 
-    fun test(){
-        //deneme
-    }
 }
